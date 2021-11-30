@@ -8,3 +8,6 @@ for (const char of newSentence) {
   }, counter )
   counter += 50;
 };
+
+
+//test code//
